@@ -1,0 +1,2 @@
+INSERT INTO cliente (id, nombre, apellido, dni, correo_electronico, contrasenia, estado) VALUES (1,'Oscar','Heredia','44433322', 'oscar.heredia@gmail.com','123456',1);
+INSERT INTO cliente (id, nombre, apellido, dni, correo_electronico, contrasenia, estado) VALUES (2,'Fernando','Valverde','44433311', 'fernando.valverde@gmail.com','123456',1);
